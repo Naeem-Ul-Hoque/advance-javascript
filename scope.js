@@ -4,4 +4,5 @@ function sum=(first, second){
 }
 
 const output = sum(3,7);
+
 console.log(output);
